@@ -1,4 +1,4 @@
-# login
+# Travel Companion
 
 A new Flutter project.
 
